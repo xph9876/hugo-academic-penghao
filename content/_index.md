@@ -52,27 +52,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Post-doc Fellow
+          company: Georgia Institute of Technology
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: gt_vertical
+          location: Atlanta
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Bioinformatics and machine learning analysis of rNMP incorporation in DNA
+        - title: Machine Learning Engineer Intern
+          company: Meta
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: meta
+          location: New York City
+          date_start: '2022-05-01'
+          date_end: '2022-08-01'
+          description: Develop recommendation systems for Instagram
+        - title: Research Scientist Intern
+          company: Norvatis
+          company_url: ''
+          company_logo: norvatis
+          location: Shanghai, China
+          date_start: '2016-08-01'
+          date_end: '2016-09-01'
+  
     design:
       columns: '2'
 
@@ -204,42 +208,40 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Let me know if you have any question, idea for collaboration, or just want to say hello!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: pxu64@gatech.edu
+      phone: (+1) 706-765-9468
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 950 Atlantic Dr NW
+        city: Atlanta
+        region: GA
+        postcode: '30332'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+        # - 'Monday 10:00 to 13:00'
+        # - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
         - icon: video
           icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Contact me on Microsoft Teams
+          link: 'https://teams.microsoft.com/l/chat/0/0?users=pxu64@gatech.edu'
+        - icon: weixin
+          icon_pack: fab
+          name: xph56781234
+      coordinates:
+          latitude: '33.7840'
+          longitude: '-84.3938'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id:
+          id: 'xjvdwbqk'
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
