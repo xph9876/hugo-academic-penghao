@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-02-17
 type: landing
 
 sections:
@@ -20,7 +20,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -40,6 +40,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: experience
     content:
       title: Experience
@@ -59,8 +60,7 @@ sections:
           location: Atlanta
           date_start: '2023-01-01'
           date_end: ''
-          description: |2-
-              Bioinformatics and machine learning analysis of rNMP incorporation in DNA
+          description: Bioinformatics and machine learning analysis of rNMP incorporation in DNA
         - title: Machine Learning Engineer Intern
           company: Meta
           company_url: ''
@@ -76,7 +76,6 @@ sections:
           location: Shanghai, China
           date_start: '2016-08-01'
           date_end: '2016-09-01'
-  
     design:
       columns: '2'
 
@@ -97,13 +96,15 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: rNMPs
+          tag: rNMPs
+        - name: Software
+          tag: Software
         - name: Other
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
+      columns: '2'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
@@ -111,7 +112,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Awards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -148,30 +149,32 @@ sections:
     design:
       columns: '2'
   
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
+
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Recent Publications
       filters:
         folders:
           - publication
         featured_only: true
+      count: 3
     design:
       columns: '2'
-      view: card
+      view: list
 
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       filters:
         folders:
           - event
@@ -179,15 +182,15 @@ sections:
       columns: '2'
       view: compact
 
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  # - block: tag_cloud
+  #   content:
+  #     title: Popular Topics
+  #   design:
+  #     columns: '2'
 
   - block: features
     content:
-      title: Skills
+      title: Skills and Hobbies
       items:
         - name: R
           description: 90%
