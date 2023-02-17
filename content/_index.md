@@ -16,7 +16,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -82,7 +82,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Research
       filters:
         folders:
           - project
@@ -109,46 +109,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Awards'
-      subtitle:
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
-    design:
-      columns: '2'
-  
+ 
   # - block: markdown
   #   content:
   #     title: Gallery
@@ -171,6 +132,62 @@ sections:
       columns: '2'
       view: list
 
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Awards'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url:
+          date_end: ''
+          date_start: '2023-01-31'
+          description: ''
+          organization: Keystone Symposia, USA
+          organization_url: https://www.keystonesymposia.org/
+          title: Future of Science Fund scholarship
+          url: ''
+        - certificate_url: https://bioinformatics.gatech.edu/congratulations-outstanding-bioinformatics-students
+          date_end: ''
+          date_start: '2022-05-01'
+          description: 
+          organization: Georgia Tech
+          organization_url:
+          title:  Mark Borodovsky Prize in the College of Sciences
+          url: https://bioinformatics.gatech.edu/georgia-tech-couple-funds-prize-bioinformatics
+        - certificate_url: 'https://research.gatech.edu/2022-suddath-award-winners'
+          date_end:
+          date_start: '2022-01-01'
+          description: ''
+          organization: Georgia Tech
+          organization_url: 
+          title: 2nd place in The F.L. "Bud" Suddath Memorial Award
+          url: ''
+        - certificate_url: ''
+          date_end:
+          date_start: '2022-01-01'
+          description: ''
+          organization: SERYM 2022
+          organization_url: 
+          title: Recogniation of outstanding contribution
+          url: ''
+        - certificate_url: ''
+          date_end:
+          date_start: '2021-01-01'
+          description: ''
+          organization: RNA 2021, 26th annual meeting of RNA society
+          organization_url: 
+          title: NSF Conference Award
+          url: ''
+    design:
+      columns: '2'
+ 
   - block: collection
     id: talks
     content:
@@ -192,17 +209,23 @@ sections:
     content:
       title: Skills and Hobbies
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Bioinformatics
+          icon: dna
+          icon_pack: fas
+        - name: Machine Learning
+          icon: circle-nodes
+          icon_pack: fas
+        - name: Data analysis
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Boardgame
+          icon: chess-board
+          icon_pack: fas
+        - name: Hunting
+          icon: paw
+          icon_pack: fas
+        - name: Tennis
+          icon: person-running
           icon_pack: fas
 
   - block: contact
@@ -211,7 +234,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Let me know if you have any question, idea for collaboration, or just want to say hello!
+        Let me know if you have any comments, questions, collaborative ideas, or just want to say hello!
       # Contact (add or remove contact options as necessary)
       email: pxu64@gatech.edu
       phone: (+1) 706-765-9468
