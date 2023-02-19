@@ -10,12 +10,18 @@ main:
   - name: News
     url: '#posts'
     weight: 20
+  - name: Experiences
+    url: '#experience'
+    weight: 25
   - name: Research
     url: '#projects'
     weight: 30
   - name: Publications
     url: '#featured'
     weight: 40
+  - name: Awards
+    url: '#accomplishments'
+    weight: 45
   - name: Presentations
     url: '#talks'
     weight: 50
@@ -25,6 +31,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 70
