@@ -1,34 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Academic</title>
-    <link>https://example.com/publication-type/2/</link>
-      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Penghao Xu</title>
+    <link>http://penghao.best/publication-type/2/</link>
+      <atom:link href="http://penghao.best/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://penghao.best/media/icon_hu78e0c9f2f9b059b6a157d77f6d13ab0a_19354_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://example.com/publication-type/2/</link>
+      <link>http://penghao.best/publication-type/2/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>RibosePreferenceAnalysis: Analyzing the preference of rNMPs embedded in genomic DNA</title>
+      <link>http://penghao.best/publication/xu-2021-heatmap/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/xu-2021-heatmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency and patterns of ribonucleotide incorporation around autonomously replicating sequences in yeast reveal the division of labor of replicative DNA polymerases</title>
+      <link>http://penghao.best/publication/xu-2021-nar/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/xu-2021-nar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disproportionate presence of adenosine in mitochondrial and chloroplast DNA of Chlamydomonas reinhardtii</title>
+      <link>http://penghao.best/publication/elsayed-2021102005/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/elsayed-2021102005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RESCOT: Restriction enzyme set and combination optimization tools for rNMP capture techniques</title>
+      <link>http://penghao.best/publication/xu-2021-rescot/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/xu-2021-rescot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ribonucleotide incorporation in yeast genomic DNA shows preference for cytosine and guanosine preceded by deoxyadenosine</title>
+      <link>http://penghao.best/publication/balachander-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/balachander-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Increased novel single nucleotide polymorphisms in weedy rice populations associated with the change of farming styles: Implications in adaptive mutation and evolution</title>
+      <link>http://penghao.best/publication/song-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/song-2017/</guid>
+      <description></description>
     </item>
     
   </channel>
