@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Penghao Xu.'
+    notice: '© {year} Penghao Xu'
     # license:
       # enable: true
       # allow_derivatives: false

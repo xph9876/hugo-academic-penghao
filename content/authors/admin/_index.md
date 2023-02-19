@@ -70,9 +70,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+    # icon_pack: ai
+    # link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'pxu64@gatech.edu'
@@ -83,6 +83,6 @@ highlight_name: true
 
 I'm a post-doc fellow at [Storici Lab](http://www.storicilab.gatech.edu/). I earned my Ph.D. in Bioinformatics at Georgia Tech in 2022, with the advising of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/). Before that, I received the M.S. in Computational Sciences and Engineering at Georgia Tech in 2019 and B.Sc. in Biological Sciences at Fudan University in 2017. My research include rNMP incorporation, DNA replication, and Nanopore sequencing.
 
-__I am on the 2024-2025 academic job market!__
+__I am currently on the 2024-2025 academic job market!__
 
 {style="text-align: justify;"}
