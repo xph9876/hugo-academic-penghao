@@ -48,4 +48,6 @@ publication: '*Software Impacts*'
 doi: 10.1016/J.SIMPA.2021.100149
 url_pdf: '/projects/VirtualHost/storici-browser/html/bin'
 url_code: 'https://github.com/xph9876/RibosePreferenceAnalysis'
+projects: 
+ - rNMP_incorporation
 ---

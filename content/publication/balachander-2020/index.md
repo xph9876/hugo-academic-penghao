@@ -70,4 +70,6 @@ links:
 - name: URL
   url: https://doi.org/10.1038/s41467-020-16152-5
 url_dataset: 'https://www.ncbi.nlm.nih.gov/bioproject/PRJNA613920'
+projects: 
+ - rNMP_incorporation
 ---

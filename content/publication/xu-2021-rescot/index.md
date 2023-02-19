@@ -64,4 +64,6 @@ abstract: The incorporation of ribonucleoside monophosphates (rNMPs) in genomic 
   characteristics of rNMP incorporation.
 publication: '*Theoretical Computer Science*'
 doi: 10.1016/j.tcs.2021.08.006
+projects:
+  - rNMP_capture
 ---

@@ -64,4 +64,6 @@ links:
 - name: URL
   url: https://academic.oup.com/nar/article/49/18/10542/6374181
 url_code: 'https://github.com/xph9876/rNMP_ARS_analysis'
+projects: 
+ - rNMP_incorporation
 ---
