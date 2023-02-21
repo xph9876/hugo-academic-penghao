@@ -83,6 +83,6 @@ highlight_name: true
 
 I'm a post-doc fellow at [Storici Lab](http://www.storicilab.gatech.edu/). I earned my Ph.D. in Bioinformatics at Georgia Tech in 2022, with the advising of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/). Before that, I received the M.S. in Computational Sciences and Engineering at Georgia Tech in 2019 and B.Sc. in Biological Sciences at Fudan University in 2017. My research include rNMP incorporation, DNA replication, and Nanopore sequencing.
 
-__I am currently on the 2024-2025 academic job market!__
+__I am currently looking for academic opportunities on 2024-2025 job market!__
 
 {style="text-align: justify;"}
