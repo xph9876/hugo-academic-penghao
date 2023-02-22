@@ -19,12 +19,12 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal website of Penghao Xu. Post-doc fellow in Georgia Institute of Technology'
-    twitter: ''
+    twitter: 'PenghaoXu'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: 'google-site-verification=DS7HfXIVLqm1WRCP9meV1Wf8_cYpqc6346qyyqR-WHE'
+    google: 'DS7HfXIVLqm1WRCP9meV1Wf8_cYpqc6346qyyqR-WHE'
     baidu: ''
 
 # Site header
