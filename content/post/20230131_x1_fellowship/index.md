@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Future of Science Fund scholarship"
-subtitle: "I received the Keystone Symposia Future of Science Fund scholarship."
-summary: "I received the Keystone Symposia Future of Science Fund scholarship."
+subtitle: "I was awarded the Keystone Symposia Future of Science Fund scholarship."
+summary: "I was awarded the Keystone Symposia Future of Science Fund scholarship."
 authors: []
 tags: []
 categories: []
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-I received the [Keystone Symposia Future of Science Fund scholarship](https://www.keystonesymposia.org/financial-aid/scholarships) from the conference __Keystone Symposia X1: Genomic Instability and DNA repair__. I'll show our new results about rNMP incorporation characteristics in human mtDNA at this conference. Welcome to check my poster (and potential talk) in Whistler, BC, Canada on Mar 19-23!
+I am glad to announce that I was awarded the [Keystone Symposia Future of Science Fund scholarship](https://www.keystonesymposia.org/financial-aid/scholarships) from the conference __Keystone Symposia X1: Genomic Instability and DNA repair__. At the upcoming conference, I will be presenting new findings on the characteristics of rNMP incorporation in human mtDNA. Welcome to view my poster (and attend my potential talk) in Whistler, BC, Canada on Mar 19-23! Please feel free to stop by and discuss my research with me!

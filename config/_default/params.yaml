@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Personal website of Penghao Xu. Post-doc fellow in Georgia Institute of Technology'
+    description: "Welcome to the personal website of Penghao Xu, a bioinformatics researcher currently working as a postdoctoral fellow at Storici Lab. Penghao holds a Ph.D. in Bioinformatics from Georgia Tech and has extensive experience in researching rNMP incorporation, DNA replication, and Nanopore sequencing. Explore Penghao's website to learn more about their research, publications, and academic background."
     twitter: 'PenghaoXu'
   analytics:
     google_analytics: ''

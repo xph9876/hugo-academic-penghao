@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Graduation!"
-subtitle: "With the help of many people, I got my Ph.D. degree in Bioinformatics!"
-summary: "With the help of many people, I got my Ph.D. degree in Bioinformatics!"
+subtitle: "Thanks to the support and guidance of numerous individuals, I successfully obtained my Ph.D. in Bioinformatics!"
+summary: "Thanks to the support and guidance of numerous individuals, I successfully obtained my Ph.D. in Bioinformatics!"
 authors: []
 tags: []
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-I completed my thesis "_Revealing patterns of ribonucleotide incorporation in genomic DNA of eukaryotic cells_"  and got my Ph.D. degree in Bioinformatics at Georgia Tech. Ph.D. program is a long journey and I've received plenty of help during the five years. Thanks my advisor __Dr. Francesca Storici__ for all her guidance and my committee members __Dr. Mark Borodovsky__, __Dr. Shamkant Navathe__, __Dr. Patrick McGrath__, and __Dr. Fredrik Vannberg__ for all their support! After graduation, I'll continue my research in Storici Lab as a postdoc. Hope I can do some better research on rNMP incorporation in DNA!
+It is with great pride and appreciation that I announce the completion of my Ph.D. in Bioinformatics at Georgia Tech, with a thesis entitled "*Revealing patterns of ribonucleotide incorporation in genomic DNA of eukaryotic cells*". Throughout my five-year journey, I was fortunate enough to receive invaluable guidance from my advisor, **Dr. Francesca Storici**, and unwavering support from my committee members: **Dr. Mark Borodovsky**, **Dr. Shamkant Navathe**, **Dr. Patrick McGrath**, and **Dr. Fredrik Vannberg**. I am excited to continue my research in Storici Lab as a postdoc, with a particular focus on investigating rNMP incorporation in DNA.
 
 ![](diploma.png)
 
