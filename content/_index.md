@@ -59,7 +59,7 @@ sections:
           company_url: ''
           company_logo: gt_vertical
           location: Atlanta
-          date_start: '2023-01-01'
+          date_start: '2023-02-01'
           date_end: ''
           description: Bioinformatics and machine learning analysis of rNMP incorporation in DNA
         - title: Machine Learning Engineer Intern
@@ -69,7 +69,8 @@ sections:
           location: New York City
           date_start: '2022-05-01'
           date_end: '2022-08-01'
-          description: Develop recommendation systems for Instagram
+          description: " 
+          Implement high‐diversity deep learning retrieval models for Instagram recommendation system."
         - title: Research Scientist Intern
           company: Norvatis
           company_url: ''

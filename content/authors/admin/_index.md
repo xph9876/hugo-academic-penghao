@@ -81,8 +81,8 @@ email: 'pxu64@gatech.edu'
 highlight_name: true
 ---
 
-As a postdoctoral fellow at [Storici Lab](http://www.storicilab.gatech.edu/), I have earned a Ph.D. in Bioinformatics from [Georgia Tech](https://www.gatech.edu/) with the guidance of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/) in 2022. Prior to this, I received a Master's degree in Computational Sciences and Engineering from [Georgia Tech](https://www.gatech.edu/) in 2019, and a Bachelor's degree in Biological Sciences from [Fudan University](https://www.fudan.edu.cn/en/) in 2017. My research interests include rNMP incorporation, DNA replication, and Nanopore sequencing.
+As a postdoctoral fellow at [Storici Lab](http://www.storicilab.gatech.edu/), I have earned a Ph.D. in Bioinformatics from [Georgia Tech](https://www.gatech.edu/) with the guidance of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/) in 2022. Prior to this, I received a Master's degree in Computational Sciences and Engineering from [Georgia Tech](https://www.gatech.edu/) in 2019, and a Bachelor's degree in Biological Sciences from [Fudan University](https://www.fudan.edu.cn/en/) in 2017. My research area include Bioinformatics, Genomics, Data analysis, and Machine Learning.
 
-__I am actively seeking academic opportunities on 2024-2025 job market!__
+__I am actively seeking Bioinformatics Scientist, Computational Biologist, and Data Scientist positions!__
 
 {style="text-align: justify;"}

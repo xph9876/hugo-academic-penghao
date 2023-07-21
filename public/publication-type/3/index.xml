@@ -5,12 +5,20 @@
     <link>http://penghao.best/publication-type/3/</link>
       <atom:link href="http://penghao.best/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://penghao.best/media/sharing.png</url>
       <title>3</title>
       <link>http://penghao.best/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Enriched zones of embedded ribonucleotides are associated with DNA replication and coding sequences in the human mitochondrial genome</title>
+      <link>http://penghao.best/publication/xu-2023-hmt/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://penghao.best/publication/xu-2023-hmt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RNA-mediated double-strand break repair in human cells</title>
