@@ -20,7 +20,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 2
       # Filter on criteria
       filters:
         folders:
@@ -54,26 +54,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Research Scientist - Machine Learning
+          company: Meta Platforms, Inc
+          company_url: 'www.meta.com'
+          company_logo: meta
+          location: New York, NY
+          date_start: '2023-12-01'
+          date_end:
+          description: Recommendation System in Instagram
         - title: Post-doc Fellow
           company: Georgia Institute of Technology
-          company_url: ''
+          company_url: 'www.gatech.edu'
           company_logo: gt_vertical
-          location: Atlanta
+          location: Atlanta, GA
           date_start: '2023-02-01'
-          date_end: ''
+          date_end: '2023-12-01'
           description: Bioinformatics and machine learning analysis of rNMP incorporation in DNA
-        - title: Machine Learning Engineer Intern
-          company: Meta
-          company_url: ''
-          company_logo: meta
-          location: New York City
-          date_start: '2022-05-01'
-          date_end: '2022-08-01'
-          description: " 
-          Implement high‐diversity deep learning retrieval models for Instagram recommendation system."
         - title: Research Scientist Intern
           company: Norvatis
-          company_url: ''
+          company_url: 'www.novartis.com.cn'
           company_logo: norvatis
           location: Shanghai, China
           date_start: '2016-08-01'
@@ -213,14 +212,14 @@ sections:
     content:
       title: Skills and Hobbies
       items:
-        - name: Bioinformatics
-          icon: dna
-          icon_pack: fas
         - name: Machine Learning
+          icon: chart-line
+          icon_pack: fas
+        - name: Deep Learning
           icon: circle-nodes
           icon_pack: fas
-        - name: Data analysis
-          icon: chart-line
+        - name: Bioinformatics
+          icon: dna
           icon_pack: fas
         - name: Boardgame
           icon: chess-board
@@ -240,14 +239,14 @@ sections:
       text: |-
         Let me know if you have any comments, questions, collaborative ideas, or just want to say hello!
       # Contact (add or remove contact options as necessary)
-      email: pxu64@gatech.edu
+      email: xph6113@gmail.com
       phone: (+1) 706-765-9468
       # appointment_url: 'https://calendly.com'
       address:
-        street: 950 Atlantic Dr NW
-        city: Atlanta
-        region: GA
-        postcode: '30332'
+        street: 770 Broadway
+        city: New York
+        region: NY
+        postcode: '10003'
         country: United States
         country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
@@ -255,16 +254,16 @@ sections:
         # - 'Monday 10:00 to 13:00'
         # - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: video
-          icon_pack: fas
-          name: Contact me on Microsoft Teams
-          link: 'https://teams.microsoft.com/l/chat/0/0?users=pxu64@gatech.edu'
+       # - icon: video
+        #  icon_pack: fas
+        #  name: Contact me on Microsoft Teams
+        #  link: 'https://teams.microsoft.com/l/chat/0/0?users=pxu64@gatech.edu'
         - icon: weixin
           icon_pack: fab
           name: xph56781234
       coordinates:
-          latitude: '33.7840'
-          longitude: '-84.3938'
+          latitude: '40.7310'
+          longitude: '-73.9917'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
@@ -274,7 +273,7 @@ sections:
           id: 'xjvdwbqk'
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '2'
 ---

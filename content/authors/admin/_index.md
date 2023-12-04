@@ -14,21 +14,21 @@ last_name: Xu
 superuser: true
 
 # Role/position/tagline
-role: Post-doc Fellow
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Georgia Institute of Technology
-    url: https://www.gatech.edu/
+  - name: Meta Platforms, Inc
+    url: https://www.meta.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ph.D. in Bioinformatics at Georgia Tech. My research focus on bioinformatics analysis of rNMP incorporation in DNA
+bio: Research Scientist at Meta. Ph.D. in Bioinformatics at Georgia Tech.
 
 # Interests to show in About widget
 interests:
-  - rNMP incorporation in DNA
-  - Machine learning
-  - Epigenetics
+  - Recommendation Systems
+  - Machine Learning
+  - Bioinformatics
 
 # Education to show in About widget
 education:
@@ -39,7 +39,7 @@ education:
     - course: M.S. in Computational Sciences and Engineering
       institution: Georgia Institute of Technology
       year: 2019
-    - course: B.Sc. in Biological Sciences
+    - course: B.Sc. in Biological Sciences, Double-major in Law
       institution: Fudan University
       year: 2017
 
@@ -66,7 +66,7 @@ social:
     link: https://github.com/xph9876
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/penghao-xu-24111914b/
+    link: https://www.linkedin.com/in/penghaoxu95/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -75,12 +75,14 @@ social:
     # link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'pxu64@gatech.edu'
+email: 'xph6113@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-As a postdoctoral fellow at [Storici Lab](http://www.storicilab.gatech.edu/), I have earned a Ph.D. in Bioinformatics from [Georgia Tech](https://www.gatech.edu/) with the guidance of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/) in 2022. Prior to this, I received a Master's degree in Computational Sciences and Engineering from [Georgia Tech](https://www.gatech.edu/) in 2019, and a Bachelor's degree in Biological Sciences from [Fudan University](https://www.fudan.edu.cn/en/) in 2017. My research area includes Machine Learning, Data analysis, and Bioinformatics.
+I'm a Research Scientist at [Meta](www.meta.com) in New York City, NY. Currently, I focus on Recommendation Systems on [Instagram](www.instagram.com).
+
+I have earned a Ph.D. in Bioinformatics from [Georgia Tech](https://www.gatech.edu/) with the guidance of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/) in 2022, a Master's degree in Computational Sciences and Engineering from [Georgia Tech](https://www.gatech.edu/) in 2019, and a Bachelor's degree in Biological Sciences with double major in Law from [Fudan University](https://www.fudan.edu.cn/en/) in 2017. 
 
 {style="text-align: justify;"}
