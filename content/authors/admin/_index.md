@@ -81,7 +81,7 @@ email: 'xph6113@gmail.com'
 highlight_name: true
 ---
 
-I'm a Research Scientist at [Meta](www.meta.com) in New York City, NY. Currently, I focus on Recommendation Systems on [Instagram](www.instagram.com).
+I'm a Research Scientist at [Meta](www.meta.com) in New York City, NY. My current work focuses on Recommendation Systems on [Instagram](www.instagram.com).
 
 I have earned a Ph.D. in Bioinformatics from [Georgia Tech](https://www.gatech.edu/) with the guidance of [Dr. Francesca Storici](https://storicilab.gatech.edu/people/professor/) in 2022, a Master's degree in Computational Sciences and Engineering from [Georgia Tech](https://www.gatech.edu/) in 2019, and a Bachelor's degree in Biological Sciences with double major in Law from [Fudan University](https://www.fudan.edu.cn/en/) in 2017. 
 
